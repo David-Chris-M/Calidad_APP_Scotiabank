@@ -1,0 +1,7 @@
+{
+  "name": "Scotiabank Banca Digital",
+  "description": "Banca Digital Segura de Scotiabank con transferencias, pago de servicios, control y seguridad de tarjetas, límites operativos y comprobantes electrónicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
